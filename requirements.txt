@@ -1,6 +1,7 @@
 streamlit
-tensorflow
-opencv-python
+tensorflow==2.19.1
+opencv-python-headless
 numpy
 pandas
 reportlab
+Pillow
